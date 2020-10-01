@@ -27,7 +27,7 @@ Contributions welcome.
 
 If you see the error:
 
-> Failed to load translations in file "en.toml": unsupported file extension .toml
+> Failed to load translations  in file "en.toml": unsupported file extension .toml
 
 Your version of Hugo is probably too old. Please use the version specified in [netlify.toml]
 
